@@ -1,0 +1,3 @@
+<!-- 这些都是内置组件 -->
+<text class="title">Hello Word</text>
+<button size="min">按钮</button>
